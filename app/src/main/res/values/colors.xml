@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="custom">#3c2063</color>
     <color name="my_custom">@color/custom</color>
+    <color name="my_page">#f4d2f8</color>
 </resources>
